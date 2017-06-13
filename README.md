@@ -13,7 +13,8 @@
 *] Library dari Local Database yang digunakan pada Aplikasi (sebutkan SQLite dasar jika tidak menggunakan library)
 
 *] UMovie adalah aplikasi android yang berisi daftar film yang banyak sekali ditonton pada menu 
-Top Movie dan daftar film yang akan ditayangkan di menu Coming Soon
+Top Movie dan daftar film yang akan ditayangkan di menu Coming Soon. Db pada aplikasi ini berfungsi untuk membuka waktu offline, jadi
+ketika offline data menload dari db tersebut.
 
 *] Kelebihan dari aplikasi ini, mudah di gunakan, tidak memakan banyak memori penyimpanan, dan berbasis online
 
